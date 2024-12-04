@@ -14,6 +14,7 @@
 *.userprefs
 
 # hide the database connection string and the JWT tocken 
+appsettings.json
 appsettings.Development.json
 
 # Mono auto generated files
